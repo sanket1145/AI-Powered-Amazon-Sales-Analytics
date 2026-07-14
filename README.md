@@ -6,11 +6,11 @@ An End-to-End Data Analytics project developed using **SQL, Python, Power BI, an
 
 ### 📈 Business Performance Overview
 
-![Dashboard Page 1](Images/Dashboard_Page1.png)
+![Dashboard Page 1](Dashboard_Images/Dashboard_Page1.png)
 
 ### 🌍 Geographical Sales Analysis
 
-![Dashboard Page 2](Images/Dashboard_Page2.png)
+![Dashboard Page 2](Dashboard_Images/Dashboard_Page2.png)
 
 ## 🎯 Project Highlights
 
